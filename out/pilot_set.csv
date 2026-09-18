@@ -1,0 +1,22 @@
+id,provenance,relation,parent,downloads_30d,gated,scans_done,why_selected
+meta-llama/Llama-Guard-3-8B,official,original,meta-llama/Llama-3.1-8B,73879,manual,,official baseline
+meta-llama/Llama-Guard-4-12B,official,original,,47602,manual,,official baseline
+meta-llama/Llama-Guard-3-1B,official,original,,23587,manual,,official baseline
+nvidia/Aegis-AI-Content-Safety-LlamaGuard-Defensive-1.0,official,original,,2651,False,,official baseline
+meta-llama/LlamaGuard-7b,official,original,,2646,manual,,official baseline
+meta-llama/Meta-Llama-Guard-2-8B,official,original,,2625,manual,,official baseline
+meta-llama/Llama-Guard-3-11B-Vision,official,original,,1983,manual,,official baseline
+meta-llama/Llama-Guard-3-8B-INT8,official,original,,1472,manual,,official baseline
+nvidia/Aegis-AI-Content-Safety-LlamaGuard-Permissive-1.0,official,original,,1342,False,,official baseline
+meta-llama/Llama-Guard-3-1B-INT4,official,original,,17,manual,,official baseline
+alpindale/Llama-Guard-3-1B,third_party,reupload,,161194,False,,top reupload by downloads
+Weni/Llama-Guard-3-8B-AWQ,third_party,reupload,,87720,False,,top reupload by downloads
+RedHatAI/Llama-Guard-4-12B-quantized.w4a16,third_party,reupload,,2894,False,,top reupload by downloads
+PrunaAI/Meta-Llama-Guard-2-8B-GGUF-smashed,third_party,reupload,,1938,False,,top reupload by downloads
+QuantFactory/Llama-Guard-3-8B-GGUF,third_party,reupload,,1573,False,,top reupload by downloads
+mradermacher/Llama-Guard-3-8B-i1-GGUF,third_party,quantization,meta-llama/Llama-Guard-3-8B,2719,False,,top quantization by downloads
+legraphista/Llama-Guard-3-8B-IMat-GGUF,third_party,quantization,meta-llama/Llama-Guard-3-8B,2293,False,,top quantization by downloads
+eaddario/Llama-Guard-3-8B-GGUF,third_party,quantization,meta-llama/Llama-Guard-3-8B,1978,False,,top quantization by downloads
+mradermacher/Llama-Guard-3-8B-GGUF,third_party,quantization,meta-llama/Llama-Guard-3-8B,1798,False,,top quantization by downloads
+TheBloke/LlamaGuard-7B-GGUF,third_party,quantization,llamas-community/LlamaGuard-7b,894,False,,top quantization by downloads
+Mungert/Llama-Guard-3-8B-GGUF,third_party,original,meta-llama/Llama-3.1-8B,589,False,,top original by downloads

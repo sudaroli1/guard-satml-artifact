@@ -1,0 +1,8 @@
+# backdoor-demo extras (07-09), on top of requirements-eval.txt. GPU node / Colab T4.
+torch
+transformers>=4.45
+accelerate
+datasets
+peft>=0.11
+pandas
+pyarrow

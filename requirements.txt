@@ -1,0 +1,6 @@
+requests>=2.31
+pandas>=2.0
+pyarrow>=14
+datasets>=2.18
+networkx>=3.2
+tqdm>=4.66

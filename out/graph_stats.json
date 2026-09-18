@@ -1,0 +1,90 @@
+{
+  "n_repos": 1005,
+  "n_official": 46,
+  "n_third_party": 959,
+  "n_families": 13,
+  "n_edges": 566,
+  "relation_breakdown": {
+    "reupload": 411,
+    "original": 259,
+    "quantization": 250,
+    "finetune": 68,
+    "adapter": 17
+  },
+  "families_where_top_repo_is_unofficial": [
+    "aegis",
+    "duoguard",
+    "gpt_oss_safeguard",
+    "guardreasoner",
+    "llama_guard",
+    "nemoguard",
+    "polyguard"
+  ],
+  "top_repo_per_family": {
+    "aegis": {
+      "id": "enguard/small-guard-32m-en-response-safety-binary-nvidia-aegis",
+      "downloads_30d": 18,
+      "provenance": "third_party"
+    },
+    "duoguard": {
+      "id": "DuoGuard/DuoGuard-0.5B",
+      "downloads_30d": 264,
+      "provenance": "third_party"
+    },
+    "gpt_oss_safeguard": {
+      "id": "openai/gpt-oss-safeguard-20b",
+      "downloads_30d": 62492,
+      "provenance": "third_party"
+    },
+    "granite_guardian": {
+      "id": "ibm-granite/granite-guardian-3.3-8b",
+      "downloads_30d": 210786,
+      "provenance": "official"
+    },
+    "guardreasoner": {
+      "id": "mradermacher/GuardReasoner-VL-Eco-7B-i1-GGUF",
+      "downloads_30d": 886,
+      "provenance": "third_party"
+    },
+    "llama_guard": {
+      "id": "alpindale/Llama-Guard-3-1B",
+      "downloads_30d": 161194,
+      "provenance": "third_party"
+    },
+    "md_judge": {
+      "id": "OpenSafetyLab/MD-Judge-v0.1",
+      "downloads_30d": 1357,
+      "provenance": "official"
+    },
+    "nemoguard": {
+      "id": "GaleneAI/llama-3.1-nemoguard-8b-content-safety-merged-NVFP4",
+      "downloads_30d": 21126,
+      "provenance": "third_party"
+    },
+    "polyguard": {
+      "id": "ToxicityPrompts/PolyGuard-Qwen-Smol",
+      "downloads_30d": 8493,
+      "provenance": "third_party"
+    },
+    "prompt_guard": {
+      "id": "meta-llama/Prompt-Guard-86M",
+      "downloads_30d": 4535161,
+      "provenance": "official"
+    },
+    "qwen_guard": {
+      "id": "Qwen/Qwen3Guard-Gen-0.6B",
+      "downloads_30d": 127687,
+      "provenance": "official"
+    },
+    "shieldgemma": {
+      "id": "google/shieldgemma-2-4b-it",
+      "downloads_30d": 9277,
+      "provenance": "official"
+    },
+    "wildguard": {
+      "id": "allenai/wildguard",
+      "downloads_30d": 151680,
+      "provenance": "official"
+    }
+  }
+}
